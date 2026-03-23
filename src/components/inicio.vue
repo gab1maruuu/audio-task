@@ -30,7 +30,7 @@
               <p class="text-white-50 fs-5 mb-4">Descubre cómo el trauma del Maracanazo en 1950 y un concurso de diseño crearon la icónica camiseta amarilla de Brasil, símbolo de su pasión y éxito futbolístico.</p>
               <div class="player-container mt-auto">
                 <audio controls class="w-100 custom-audio-player">
-                  <source src="../../public/podcasts/hate being sober.mp3" type="audio/mpeg">
+                  <source src="../../public/podcasts/maracanazo.mp3" type="audio/mpeg">
                 </audio>
               </div>
             </div>

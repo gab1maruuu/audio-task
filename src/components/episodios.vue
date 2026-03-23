@@ -40,34 +40,34 @@ export default {
         {
           id: 1,
           numero: 1,
-          titulo: 'Episodio 1',
-          descripcion: 'Descripción del episodio 1.',
-          imagen: '/public/images/podcast 5.png',
-          audio: ''
+          titulo: '#1:  El origen del fútbol moderno',
+          descripcion: 'Descubre cómo nació el fútbol moderno y cómo evolucionó a lo largo de los años.',
+          imagen: '/public/images/podcast1.png',
+          audio: '/public/podcasts/historia del futbol.mp3'
         },
         {
           id: 2,
           numero: 2,
-          titulo: 'Episodio 2',
-          descripcion: 'Descripción del episodio 2.',
-          imagen: '/public/images/podcast 5.png',
-          audio: ''
+          titulo: '#2: El clasico: Mas que un partido',
+          descripcion: 'Un analisis profundo de la rivalidad mas grande del futbol mundial.',
+          imagen: '/public/images/podcast2.png',
+          audio: '/public/podcasts/clasico.mp3'
         },
         {
           id: 3,
           numero: 3,
-          titulo: 'Episodio 3',
-          descripcion: 'Descripción del episodio 3.',
-          imagen: '/public/images/podcast 5.png',
-          audio: ''
+          titulo: '#3: La leyenda de Messi',
+          descripcion: 'La historia de uno de los mejores jugadores de todos los tiempos.',
+          imagen: '/public/images/podcast3.png',
+          audio: '/public/podcasts/messi.mp3'
         },
         {
-          id: 3,
-          numero: 3,
-          titulo: 'Episodio 3',
-          descripcion: 'Descripción del episodio 3.',
-          imagen: '/public/images/podcast 5.png',
-          audio: ''
+          id: 4,
+          numero: 4,
+          titulo: '#4: ¿El VAR mejora el fútbol?',
+          descripcion: 'Debatimos sobre el impacto del VAR en el fútbol moderno.',
+          imagen: '/public/images/podcast4.png',
+          audio: '/public/podcasts/var.mp3'
         }
       ]
     }
